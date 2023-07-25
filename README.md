@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -23,11 +23,11 @@
 
 ###
 
-<p align="left">Para me conhecer melhor de uma olhada nas minhas redes.</p>
+<p align="center">Para me conhecer melhor de uma olhada nas minhas redes.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a target="_blanck" href="https://www.instagram.com/andrejetx/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a target="_blanck" href="mailto:yahoo.com.br"><img src="https://img.shields.io/static/v1?message=Yahoo!&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a target="_blanck" href="https://www.linkedin.com/in/andre-juan-74569967/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
