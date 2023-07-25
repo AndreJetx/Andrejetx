@@ -40,7 +40,15 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AndreJetx/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndreJetx.AndreJetx&"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AndreJetx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ###
